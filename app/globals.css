@@ -29,3 +29,7 @@ body {
   -webkit-box-shadow: 0 0 3px 0 rgba(137, 137, 137, 0.75);
   -moz-box-shadow: 0 0 3px 0 rgba(137, 137, 137, 0.75);
 }
+
+.swiper-pagination {
+  margin-bottom: -5px !important;
+}
